@@ -68,8 +68,8 @@ I’m passionate about organization, clarity, and helping legal teams run effici
 ## Education 🎓
 - **Bachelor’s Degree in Business Management**  
   *[View Certificate](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)*
-- *Paralegal Associate Degree (ABA-Approved)* *(Coming Soon)*
-- *Contract Law Specialization - Yale University* *(Coming Soon)*
+- *Paralegal Associate Degree (ABA-Approved)* 
+- *Contract Law Specialization - Yale University* 
 
 ---
 

@@ -93,16 +93,16 @@ I’m passionate about organization, clarity, and helping legal teams run effici
 ## Work Samples 🔬
 Click below to view work samples:
 
-- [Case Brief - Masterpiece Cakeshop Ltd.](worksample/Case%20Brief%20-%20Case%20Brief%20-%20Masterpiece%20Cakeshop_%20Ltd.%20....docx)
+- [Case Brief - Masterpiece Cakeshop Ltd.](worksample/Case%20Brief%20-%20Case%20Brief%20-%20Masterpiece%20Cakeshop_%20Ltd.%20v.%20Colorado%20Civil%20Rights%20Commission.docx)
 - [Bylaws of Equator LLC](worksample/Bylaws%20of%20Equator%20LLC.pdf)
 - [Subcontractor Agreement](worksample/Subcontractor%20Agreement.pdf)
 - [Single-Member LLC Operating Agreement](worksample/Single-Member%20LLC%20Operating%20Agreement.pdf)
 - [BOD Meeting Agenda](worksample/BOD%20Meeting%20Agenda.pdf)
-- [Legal Memo - False Advertising](worksample/Legal%20Memo%20-%20False%20Advertising%20Suit%20under%20the%20Lanham%20ActFals....docx)
+- [Legal Memo - False Advertising](worksample/Legal%20Memo%20-%20False%20Advertising%20Suit%20under%20the%20Lanham%20ActFalse%20Advertising%20-%20Defense.docx)
 - [NDA - California](worksample/California%20Non-Disclosure%20Agreement%20(NDA).pdf)
 - [Case Law - Pruneyard](worksample/Legal%20Memo%20-%20Pruneyard%20Case%20Law%20Jurisdiction%20-%20Case%20Status.docx)
-- [Memo - Suzy Speeker](worksample/Legal%20Memo%20-%20Suzy%20Speeker%20v.%20South%20Bay%20County%20School....docx)
-- [Memo - Flowers v. Campbell](worksample/Legal%20Memo%20-%20Flowers%20v.%20Campbell%20-%20Research.docx)
+- [Memo - Suzy Speeker](worksample/Legal%20Memo%20-%20Suzy%20Spekeer%20v.%20South%20Bay%20County%20School%20District%20-%20Analysis.docx)
+- [Memo - Flowers v. Campbell](worksample/Legal%20Memo%20-%20%20Flowers%20v.%20Campbell%20-%20%20Research.docx)
 - [Case Brief - Scorr v. Harris](worksample/Case%20Brief%20-%20Scorr%20v.%20Harris.docx)
 - [Cease & Desist Letter](worksample/Cease%20and%20Desist%20Letter%20Copyright%20Infringement%20Issue.docx)
 - [Motion to Dismiss](worksample/Legal%20Brief%20-%20Motion%20to%20Dismiss.docx)

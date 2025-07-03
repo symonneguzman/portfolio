@@ -119,7 +119,6 @@ Click below to view work samples:
 ## Groups I Follow 📅
 - Fun Facts & Legal Trends
 - Knowledge gained through real-world practice
-
-## Entrepreneurial Insight 🚀
-- My own business experience coming soon...
+- Knowledge acquired by doing it:
+-My own business:
 

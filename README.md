@@ -1,59 +1,51 @@
 # Portfolio
-
 ## About Me 👋
-Hi, I’m **Symonne Guzman**  a certified Paralegal with a Bachelor's degree in Business Management. With over two decades of experience as an Executive Assistant, I bring a strong foundation in legal support, contract management, and executive operations.
+Hi, I’m **Symonne Guzman** — a certified Paralegal with a Bachelor's in Business Management and over two decades of experience as an Executive Assistant. I specialize in legal support, contract management, and corporate operations.
 
-This portfolio reflects my evolving career path as I pursue legal and corporate operations roles. My background includes:
-- Legal research and contract lifecycle management
-- Drafting and reviewing legal documents
-- Managing stakeholder communications and project coordination
-- Deep familiarity with compliance, documentation, and executive-level support
-
-I’m passionate about organization, clarity, and helping legal teams run efficiently.
+This portfolio highlights my evolving career path as I transition into legal and corporate operations roles. I bring deep expertise in executive operations, stakeholder communication, project coordination, and contract lifecycle management. I’m passionate about structure, clarity, and helping legal teams operate efficiently and compliantly.
 
 ---
 
-## Experience 🏢
+## 🏢 Experience
 
 ### 🔍 Legal & Contract Management Support
-- Drafting/redlining contracts, handling NDAs, vendor agreements
-- Preparing board materials, legal documentation, and managing approvals
-- Tools used: **Agiloft**, **Salesforce**, **SharePoint**
+- Drafted/redlined NDAs, vendor contracts, and board materials
+- Managed approval workflows using platforms like **Agiloft**, **Salesforce**, and **SharePoint**
 
 ### 📄 Paralegal Projects & Coursework
-- Legal research, case briefs, drafting pleadings & motions
-- Trained in California legal procedures: civil litigation, employment law, immigration
+- Legal research, case briefs, drafting pleadings, motions, and memos
+- Trained in California legal procedures: civil litigation, employment law, and immigration law
 
 ### 👩‍💼 Executive-Level Legal Support
-- Supported C-suite communication with legal counsel
-- Managed confidential compliance documentation
-- Prepared Audit Committee and Board meeting materials
+- Supported C-level executives with legal documentation
+- Managed confidential compliance files and prepared Board and Audit Committee materials
 
 ---
 
-## Tools 🔧
-### Legal & Contract Platforms:
-- [Agiloft](https://www.agiloft.com/) – CLM platform
-- [DocuSign](https://www.docusign.com/)
-- [Ironclad](https://ironcladapp.com/)
-- [Clio](https://www.clio.com/)
-- [Concord](https://www.concordnow.com/)
-- [ContractSafe](https://www.contractsafe.com/)
+## 🛠 Tools
 
-### Document & File Management:
+### ⚖️ Legal & Contract Platforms
+- [Agiloft](https://www.agiloft.com/) – Contract Lifecycle Management (CLM)
+- [DocuSign](https://www.docusign.com/) – E-signatures
+- [Ironclad](https://ironcladapp.com/) – Digital contracting
+- [Clio](https://www.clio.com/) – Case management
+- [Concord](https://www.concordnow.com/) – Contract collaboration
+- [ContractSafe](https://www.contractsafe.com/) – Contract storage
+
+### 📁 Document & File Management
 - [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
 - [Google Workspace](https://workspace.google.com/)
 - [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
 - [Dropbox Business](https://www.dropbox.com/business)
-- Microsoft Office Suite
+- Microsoft Office (Word, Excel, PowerPoint)
 
-### Legal Research:
+### 🧠 Legal Research
 - [Westlaw](https://legal.thomsonreuters.com/en/westlaw)
-- [LexisNexis](https://www.lexisnexis.com/en-us/gateway.page)
+- [LexisNexis](https://www.lexisnexis.com/)
 - [PACER](https://pacer.uscourts.gov/)
 - [California Courts](https://www.courts.ca.gov/)
 
-### Admin & Workflow Tools:
+### 🛎️ Admin & Workflow Tools
 - [Salesforce](https://www.salesforce.com/)
 - [Workday](https://www.workday.com/)
 - [Slack](https://slack.com/)
@@ -61,39 +53,48 @@ I’m passionate about organization, clarity, and helping legal teams run effici
 - [Power BI](https://powerbi.microsoft.com/)
 - [HelloSign](https://www.hellosign.com/)
 - [Notion](https://www.notion.so/)
-- [Trello](https://trello.com/) / [Asana](https://asana.com/)
+- [Trello](https://trello.com/)
+- [Asana](https://asana.com/)
 
 ---
 
-## Education 🎓
-- **Bachelor’s Degree in Business Management**  
-  *[View Certificate](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)*
-- *Paralegal Associate Degree (ABA-Approved)* 
-- *Contract Law Specialization - Yale University* 
+## 🎓 Education
+
+- **[Bachelor’s Degree in Business Management](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)**  
+  [![View Certificate](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)
+
+- **Paralegal Associate Degree** *(ABA-Approved Program)*
+
+- **Contract Law Specialization – Yale University** *(coming soon)*
 
 ---
 
-## Certifications 🏆
-- **Project Management Professional (PMP)**  
-  *[View Certificate](certification/PMP%20-%20Project%20Management%20Professional.jpg)*
-- **Salesforce CRM**  
-  *[View Certificate](certification/Salesforce%20CRM.jpg)*
-- **Project+ - CompTIA**  
-  *[View Certificate](certification/Project_%20-%20CompTIA.png)*
+## 🏆 Certifications
+
+- **[Project Management Professional (PMP)](certification/PMP%20-%20Project%20Management%20Professional.jpg)**  
+  [![View Certificate](certification/PMP%20-%20Project%20Management%20Professional.jpg)](certification/PMP%20-%20Project%20Management%20Professional.jpg)
+
+- **[Salesforce CRM](certification/Salesforce%20CRM.jpg)**  
+  [![View Certificate](certification/Salesforce%20CRM.jpg)](certification/Salesforce%20CRM.jpg)
+
+- **[Project+ - CompTIA](certification/Project_%20-%20CompTIA.png)**  
+  [![View Certificate](certification/Project_%20-%20CompTIA.png)](certification/Project_%20-%20CompTIA.png)
 
 ---
 
-## Licenses 📝
-- *CA Real Estate License* 
- *[View License](license/CA%20Real%20Estate%20Salesperson%20License.jpg)*
-- *CA Notary* 
- *[View License](license/CA%20Notary%20Pass%20Letter.pdf)*
+## 📝 Licenses
+
+- **[CA Real Estate License](license/CA%20Real%20Estate%20Salesperson%20License.jpg)**  
+  [![View License](license/CA%20Real%20Estate%20Salesperson%20License.jpg)](license/CA%20Real%20Estate%20Salesperson%20License.jpg)
+
+- **[CA Notary](license/CA%20Notary%20Pass%20Letter.pdf)**  
+  [Click to View License](license/CA%20Notary%20Pass%20Letter.pdf)
+
 ---
 
-## Work Samples 🔬
-Click below to view work samples:
+## 🔬 Work Samples
 
-- [Case Brief - Masterpiece Cakeshop Ltd.](worksample/Case%20Brief%20-%20Case%20Brief%20-%20Masterpiece%20Cakeshop_%20Ltd.%20v.%20Colorado%20Civil%20Rights%20Commission.docx)
+- [Case Brief - Masterpiece Cakeshop Ltd.](worksample/Case%20Brief%20-%20Masterpiece%20Cakeshop_%20Ltd.%20v.%20Colorado%20Civil%20Rights%20Commission.docx)
 - [Bylaws of Equator LLC](worksample/Bylaws%20of%20Equator%20LLC.pdf)
 - [Subcontractor Agreement](worksample/Subcontractor%20Agreement.pdf)
 - [Single-Member LLC Operating Agreement](worksample/Single-Member%20LLC%20Operating%20Agreement.pdf)
@@ -109,16 +110,20 @@ Click below to view work samples:
 
 ---
 
-## Books I Recommend 📚
+## 📚 Books I Recommend
+
 - [Mastering Employment Law](https://www.amazon.com/Mastering-Employment-Law-Comprehensive-explanations/dp/B0D8GSPPL6)
 - [LLC & S-Corporation & Tax Deduction Beginner's Guide](https://www.amazon.com/S-Corporation-Deduction-Beginners-Guide-2025-ebook/dp/B0D9RXH5WM)
-- [Business Law 101](https://www.amazon.com/Business-Law-101-Understanding-Terminology-ebook/dp/B0FCD1MCQK)
+- [Business Law 101: Understanding Legal Rules](https://www.amazon.com/Business-Law-101-Understanding-Terminology-ebook/dp/B0FCD1MCQK)
 
 ---
 
-## Groups I Follow 📅
-- Fun Facts & Legal Trends
-- Knowledge gained through real-world practice
-- Knowledge acquired by doing it:
--My own business:
+## 👥 Groups I Follow
 
+- Fun Facts & Legal Trends  
+- Knowledge Gained Through Real-World Practice  
+- My Own Business Journey  
+
+---
+
+Thank you for taking the time to explore my portfolio. If you'd like to connect or collaborate, feel free to reach out via LinkedIn or GitHub!

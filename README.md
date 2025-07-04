@@ -1,4 +1,4 @@
-# Symonne Guzman Portfolio
+# Portfolio
 
 ## About Me 👋
 Hi, I’m **Symonne Guzman**  a certified Paralegal with a Bachelor's degree in Business Management. With over two decades of experience as an Executive Assistant, I bring a strong foundation in legal support, contract management, and executive operations.

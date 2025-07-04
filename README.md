@@ -1,6 +1,6 @@
 # Portfolio
 ## About Me 👋
-Hi, I’m **Symonne Guzman** — a certified Paralegal with a Bachelor's in Business Management and over two decades of experience as an Executive Assistant. I specialize in legal support, contract management, and corporate operations.
+Hi, I’m **Symonne Guzman**  certified Paralegal with a Bachelor's in Business Management and over two decades of experience as an Executive Assistant. I specialize in legal support, contract management, and corporate operations.
 
 This portfolio highlights my evolving career path as I transition into legal and corporate operations roles. I bring deep expertise in executive operations, stakeholder communication, project coordination, and contract lifecycle management. I’m passionate about structure, clarity, and helping legal teams operate efficiently and compliantly.
 
@@ -58,39 +58,32 @@ This portfolio highlights my evolving career path as I transition into legal and
 
 ---
 
-## 🎓 Education
 
-- **[Bachelor’s Degree in Business Management](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)**  
-  [![View Certificate](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)
-
-- **Paralegal Associate Degree** *(ABA-Approved Program)*
-
-- **Contract Law Specialization – Yale University** *(coming soon)*
+## Education 🎓
+- **Bachelor’s Degree in Business Management**  
+  *[View Certificate](education/Bachelor's%20Degree%20-%20Business%20Management.jpg)*
+- *Paralegal Associate Degree (ABA-Approved)* 
+- *Contract Law Specialization - Yale University* 
 
 ---
 
-## 🏆 Certifications
-
-- **[Project Management Professional (PMP)](certification/PMP%20-%20Project%20Management%20Professional.jpg)**  
-  [![View Certificate](certification/PMP%20-%20Project%20Management%20Professional.jpg)](certification/PMP%20-%20Project%20Management%20Professional.jpg)
-
-- **[Salesforce CRM](certification/Salesforce%20CRM.jpg)**  
-  [![View Certificate](certification/Salesforce%20CRM.jpg)](certification/Salesforce%20CRM.jpg)
-
-- **[Project+ - CompTIA](certification/Project_%20-%20CompTIA.png)**  
-  [![View Certificate](certification/Project_%20-%20CompTIA.png)](certification/Project_%20-%20CompTIA.png)
+## Certifications 🏆
+- **Project Management Professional (PMP)**  
+  *[View Certificate](certification/PMP%20-%20Project%20Management%20Professional.jpg)*
+- **Salesforce CRM**  
+  *[View Certificate](certification/Salesforce%20CRM.jpg)*
+- **Project+ - CompTIA**  
+  *[View Certificate](certification/Project_%20-%20CompTIA.png)*
 
 ---
 
-## 📝 Licenses
-
-- **[CA Real Estate License](license/CA%20Real%20Estate%20Salesperson%20License.jpg)**  
-  [![View License](license/CA%20Real%20Estate%20Salesperson%20License.jpg)](license/CA%20Real%20Estate%20Salesperson%20License.jpg)
-
-- **[CA Notary](license/CA%20Notary%20Pass%20Letter.pdf)**  
-  [Click to View License](license/CA%20Notary%20Pass%20Letter.pdf)
-
+## Licenses 📝
+- *CA Real Estate License* 
+ *[View License](license/CA%20Real%20Estate%20Salesperson%20License.jpg)*
+- *CA Notary* 
+ *[View License](license/CA%20Notary%20Pass%20Letter.pdf)*
 ---
+
 
 ## 🔬 Work Samples
 
@@ -123,7 +116,3 @@ This portfolio highlights my evolving career path as I transition into legal and
 - Fun Facts & Legal Trends  
 - Knowledge Gained Through Real-World Practice  
 - My Own Business Journey  
-
----
-
-Thank you for taking the time to explore my portfolio. If you'd like to connect or collaborate, feel free to reach out via LinkedIn or GitHub!

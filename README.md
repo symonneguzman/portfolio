@@ -1,6 +1,6 @@
 # Portfolio
 ## About Me 👋
-Hi, I’m **Symonne Guzman**  certified Paralegal with a Bachelor's in Business Management and over two decades of experience as an Executive Assistant. I specialize in legal support, contract management, and corporate operations.
+Hi, I’m **Symonne Guzman**  certified Paralegal with a Bachelor's in Business Management and over two decades of experience as an Executive Assistant. I am pecialized in C-suite and legal support, contract management, and corporate operations.
 
 This portfolio highlights my evolving career path as I transition into legal and corporate operations roles. I bring deep expertise in executive operations, stakeholder communication, project coordination, and contract lifecycle management. I’m passionate about structure, clarity, and helping legal teams operate efficiently and compliantly.
 

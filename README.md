@@ -102,16 +102,13 @@ Click below to view work samples:
 
 ---
 
-## Books I Recommend 📚
+## Books I am currentely reading 📚
 - [Mastering Employment Law](https://www.amazon.com/Mastering-Employment-Law-Comprehensive-explanations/dp/B0D8GSPPL6)
 - [LLC & S-Corporation & Tax Deduction Beginner's Guide](https://www.amazon.com/S-Corporation-Deduction-Beginners-Guide-2025-ebook/dp/B0D9RXH5WM)
 - [Business Law 101](https://www.amazon.com/Business-Law-101-Understanding-Terminology-ebook/dp/B0FCD1MCQK)
 
 ---
 
-## Groups I Follow 📅
-- Fun Facts & Legal Trends
-- Knowledge gained through real-world practice
-- Knowledge acquired by doing it:
--My own business:
+## Extra 📅
+- My own business: https://g.co/kgs/q7rPsFy
 
